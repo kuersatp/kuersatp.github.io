@@ -62,27 +62,43 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Assistant
+          company: Karlsruhe Institute of Technology
+          company_url: 'https://www.mrt.kit.edu/'
+          company_logo: org-x
+          location: Karlsruhe
+          date_start: '2019-01-01'
+          date_end: '2019-06-30'
+          description: Development of a C++ library for multi-object tracking based on the labeled Multi-Bernoulli-Filter
+        - title: Intern
+          company: Airbus Defence & Space
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Munich
+          date_start: '2018-07-01'
+          date_end: '2018-12-31'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              * Implementation of the signals processing chain for 3rd gen BeiDou signals in C++
+              * Receiver Autonomous Integrity Monitoring
+        - title: Research Assistant
+          company: FZI Research Center for Information Technology
+          company_url: 'https://www.fzi.de/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Karlsruhe
+          date_start: '2018-04-01'
+          date_end: '2018-10-31'
+          description: Development of a wheel detector for extrinsic calibration
+        - title: Research Assistant
+          company: Fraunhofer IOSB
+          company_url: 'https://www.iosb.fraunhofer.de/'
+          company_logo: org-x
+          location: Karlsruhe
+          date_start: '2016-07-01'
+          date_end: '2017-03-30'
+          description: Development of a multi-object tracking algorithm in C++ based on the Hungarian algorithm
+
     design:
       columns: '2'
   - block: accomplishments
