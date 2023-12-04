@@ -1,51 +1,53 @@
 ---
 # Display name
-title: 吳健雄
+title: Kürsat Petek
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Kürsat
+last_name: Petek
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student in Robotics and AI
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Freiburg
+    url: https://rl.uni-freiburg.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include robotics and computer vision.
 
 # Interests to show in About widget
 interests:
+  - Robotics
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - SLAM
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: University of Freiburg
+      year: 2024
+    - course: MSc in Electrical Engineering and Information Technology
+      institution: Karlsruhe Institute of Technology
+      year: 2020
+    - course: BSc in Electrical Engineering and Information Technology
+      institution: Karlsruhe Institute of Technology
+      year: 2016
 
+<!---
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
@@ -85,6 +87,7 @@ skills:
         percent: 80
         icon: camera-retro
         icon_pack: fas
+-->
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -94,21 +97,23 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
+<!--- 
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
     label: Follow me on Twitter
     display:
       header: true
+-->
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=96SlLi8AAAAJ&hl=de
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/kuersatp
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/k%C3%BCrsat-petek-130aaa156/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +125,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm currently conducting my PhD studies in Robotics at the University of Freiburg.
 {style="text-align: justify;"}
