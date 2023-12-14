@@ -153,10 +153,9 @@ sections:
       title: News
       subtitle: ''
       text: 
-        Colors:
-          * Red
-          * Green
-          * Blue
+        * Red
+        * Green
+        * Blue
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Choose how many pages you would like to offset by
