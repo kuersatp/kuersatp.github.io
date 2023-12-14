@@ -69,7 +69,10 @@ sections:
           location: Karlsruhe
           date_start: '2019-01-01'
           date_end: '2019-06-30'
-          description: Development of a C++ library for multi-object tracking based on the labeled Multi-Bernoulli-Filter
+          description: 
+              Responsibilities include:
+              * Developed a C++ library for real‑time multi‑object tracking based on the Labeled Multi‑Bernoulli Filter
+              * Developed a modular C++ framework with utilities for different tracking approaches, e.g., Unscented Kalman Filter, Graph algorithms (DFS, BFS), Hopcroft‑Karp algorithm etc.
         - title: Intern
           company: Airbus Defence & Space
           company_url: ''
@@ -80,8 +83,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Implementation of the signals processing chain for 3rd gen BeiDou signals in C++
-              * Receiver Autonomous Integrity Monitoring
+              * Developed the signal processing chain for the latest Chinese satellite navigation system, BeiDou, in C++.
+              * Developed a novel receiver autonomous integrity monitoring (RAIM) system for erroneous GPS measurements.
+              * Contributed to the development of a velocity measurement method based on charge induction for trains.
         - title: Research Assistant
           company: FZI Research Center for Information Technology
           company_url: 'https://www.fzi.de/'
@@ -97,10 +101,11 @@ sections:
           location: Karlsruhe
           date_start: '2016-07-01'
           date_end: '2017-03-30'
-          description: Development of a multi-object tracking algorithm in C++ based on the Hungarian algorithm
+          description: Developed a novel multi-object tracking algorithm for satellite images based on the Hungarian algorithm for data association on bipartite graphs.
 
     design:
       columns: '2'
+>
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -143,6 +148,7 @@ sections:
           url: ''
     design:
       columns: '2'
+<
   - block: collection
     id: posts
     content:
