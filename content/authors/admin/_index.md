@@ -25,8 +25,7 @@ organizations:
     url: https://rl.uni-freiburg.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on self‑supervised learning techniques for scene reconstruction and semantics understanding. The goal of my research
-is to enable robot perception that achieves competitive results without large scale annotated data.
+bio: My research focuses on self‑supervised learning techniques for scene reconstruction and semantics understanding. The goal of my research is to enable robot perception that achieves competitive results without large scale annotated data.
 
 # Interests to show in About widget
 interests:
