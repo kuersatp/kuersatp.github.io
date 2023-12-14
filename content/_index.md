@@ -65,7 +65,7 @@ sections:
         - title: Research Assistant
           company: Karlsruhe Institute of Technology
           company_url: 'https://www.mrt.kit.edu/'
-          company_logo: org-x
+          company_logo: kit-logo
           location: Karlsruhe
           date_start: '2019-01-01'
           date_end: '2019-06-30'
@@ -73,7 +73,7 @@ sections:
         - title: Intern
           company: Airbus Defence & Space
           company_url: ''
-          company_logo: org-gc
+          company_logo: airbus-ds-logo
           location: Munich
           date_start: '2018-07-01'
           date_end: '2018-12-31'
@@ -93,7 +93,7 @@ sections:
         - title: Research Assistant
           company: Fraunhofer IOSB
           company_url: 'https://www.iosb.fraunhofer.de/'
-          company_logo: org-x
+          company_logo: fraunhofer-logo
           location: Karlsruhe
           date_start: '2016-07-01'
           date_end: '2017-03-30'
