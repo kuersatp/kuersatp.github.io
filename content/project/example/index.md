@@ -1,5 +1,7 @@
 ---
-title: Example Project
+title: Few-Shot Panoptic Segmentation With Foundation Models
+subtitle: M. Käppeler*, K. Petek*, N. Vödisch*, W. Burgard, and A. Valada
+subsubtitle: yoyo
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
