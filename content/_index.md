@@ -85,7 +85,7 @@ sections:
         - title: Research Assistant
           company: FZI Research Center for Information Technology
           company_url: 'https://www.fzi.de/'
-          company_logo: fzi-logo
+          company_logo: uploads/fzi-logo
           location: Karlsruhe
           date_start: '2018-04-01'
           date_end: '2018-10-31'
