@@ -25,7 +25,8 @@ organizations:
     url: https://rl.uni-freiburg.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics and computer vision.
+bio: My research focuses on self‑supervised learning techniques for scene reconstruction and semantics understanding. The goal of my research
+is to enable robot perception that achieves competitive results without large scale annotated data.
 
 # Interests to show in About widget
 interests:
@@ -63,13 +64,13 @@ social:
     link: https://github.com/kuersatp
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/k%C3%BCrsat-petek-130aaa156/
+    link: https://www.linkedin.com/in/kuersatp/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv_petek_kuersat.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
