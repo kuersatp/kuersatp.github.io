@@ -69,7 +69,7 @@ sections:
           location: Karlsruhe
           date_start: '2019-01-01'
           date_end: '2019-06-30'
-          description: 
+          description: |2-
               Responsibilities include:
               * Developed a C++ library for real‑time multi‑object tracking based on the Labeled Multi‑Bernoulli Filter
               * Developed a modular C++ framework with utilities for different tracking approaches, e.g., Unscented Kalman Filter, Graph algorithms (DFS, BFS), Hopcroft‑Karp algorithm etc.
