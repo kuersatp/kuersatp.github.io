@@ -147,25 +147,22 @@ sections:
 #          url: ''
     design:
       columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: News
-      subtitle: ''
-      text: 
-        * Red
-        * Green
-        * Blue
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+#  - block: collection
+#    id: posts
+#    content:
+#      title: News
+#      subtitle: ''
+#      text: ''
+#      # Choose how many pages you would like to display (0 = all pages)
+#      count: 5
+#      # Choose how many pages you would like to offset by
+#      offset: 0
+#      # Page order: descending (desc) or ascending (asc) date.
+#      order: desc
+#    design:
+#      # Choose a layout view
+#      view: compact
+#      columns: '2'
   - block: portfolio
     id: projects
     content:
