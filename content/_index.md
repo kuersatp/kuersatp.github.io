@@ -102,7 +102,6 @@ sections:
           date_start: '2016-07-01'
           date_end: '2017-03-30'
           description: Developed a novel multi-object tracking algorithm for satellite images based on the Hungarian algorithm for data association on bipartite graphs.
-
     design:
       columns: '2'
 >
